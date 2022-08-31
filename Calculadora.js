@@ -118,7 +118,7 @@ const resetear = () =>{
     resultado.textContent = "";
     operandoa = 0;
     operandob = 0;
-    operacion = "";
+    operacion = "hola";
 }
 
 const resolver = () =>{
